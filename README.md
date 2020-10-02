@@ -38,6 +38,6 @@ The most important features:
 
 According to this data set and models ran, a Pokemon Trainer should prioritze speed and attack when builing their team of Pokemon. It seems that aggressive play is much more favoable than defensive play. Further, they should prioritze training Pokemon that have high stat totals. Raw power is the key to winning a Pokemon battle. 
 
-Unfortunately, Pokemon battles are much more complex than how they are presented in this data set. The creator states that they had to leaves some features out to simplify the dataset. It would be interesting to construct a new dataset/model/algorithm that takes all features of Pokemon into account and deals with all the intricacies of a Pokemon battle, particularly type-effectiveness. 
+Unfortunately, Pokemon battles are much more complex than how they are presented in this data set. The creator states that they had to leave some features out to simplify the dataset. It would be interesting to construct a new dataset/model/algorithm that takes all features of Pokemon into account and deals with all the intricacies of a Pokemon battle, particularly type-effectiveness. 
   
 
