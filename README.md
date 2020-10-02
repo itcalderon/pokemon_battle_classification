@@ -40,4 +40,4 @@ According to this data set and models ran, a Pokemon Trainer should prioritze sp
 
 Unfortunately, Pokemon battles are much more complex than how they are presented in this data set. The creator states that they had to leave some features out to simplify the dataset. It would be interesting to construct a new dataset/model/algorithm that takes all features of Pokemon into account and deals with all the intricacies of a Pokemon battle, particularly type-effectiveness. 
   
-
+[Link to presentation](https://docs.google.com/presentation/d/1Gj3s9QWVZQ1YGxQB7lmrdw2InCuIb2Ab5dliz_U9zTU/edit?usp=sharing)
