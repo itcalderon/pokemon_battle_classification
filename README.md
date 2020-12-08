@@ -18,19 +18,19 @@ The most important features:
 
   * **Pokemon Speed**: A Pokemon is more likely to win a battle if it has a higher speed stat. Additionally, the bigger the speed advantage a Pokemon has over its opponent the better its chances of winning are. 
   
-  ![Image](wins_by_speed_advantage.png?raw=true)
+  ![Image](images/wins_by_speed_advantage.png)
   
   Negative values mean the Pokemon is at a speed disadvantage while positive values mean it is at an advantge. The difference is quite drastic. Even just a small disadvantage could mean defeat for a Pokemon. 
   
   * **Pokemon Stat Total**: A Pokemon's stat total is the sum of all its stats. It takes into account the different attack stats as well as the defensive stats like HP, Defense, and Special Defense. 
   
-  ![Image](wins_by_stat_advantage.png?raw=true)
+  ![Image](images/wins_by_stat_advantage.png)
   
   We can see that the bigger the stat total advantage the more likely it is for a Pokemon to win. It is worth noting that the relationship between stat total advantage and win percent is less drastic than for speed. 
   
   * **Pokemon Attack**: We can see a similar relationship to the previous two features. As attack advantage increases, a Pokemon is more and more likely to win. 
   
-  ![Image](wins_by_attack_advantage.png?raw=true)
+  ![Image](images/wins_by_attack_advantage.png)
   
   Compared to the other stats, the change in win percent as attack advantage increases is more constant and less dramatic than the previous two features. 
   
