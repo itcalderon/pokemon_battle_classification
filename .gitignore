@@ -130,6 +130,7 @@ dmypy.json
 
 # Ignore csv files
 *.csv
+*.csv.icloud
 
 #Ignore DS_Store Files
 *.DS_Store
